@@ -5,6 +5,11 @@ I was really fascianted with the emg sensors and i wanted to used it really bad 
 
 
 ## Schematics
+![EMG Setup](PHOTOS/P1.png)
+
+![Wiring](PHOTOS/P2.png)
+
+![Robotic Hand](PHOTOS/P3.png)
 
 ## CAD
 
