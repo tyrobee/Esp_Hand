@@ -8,9 +8,7 @@ I was really fascianted with the emg sensors and i wanted to used it really bad 
 
 ## CAD
 
-## Bill Of Materials (BOM)
-
-# 🧾 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Name                                           | Purpose         | Quantity | Total Cost (USD) | Link | Distributor |
 |------------------------------------------------|----------------|----------|------------------|------|-------------|
