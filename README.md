@@ -27,7 +27,7 @@ The goal is not just to build a prototype, but to understand how human-machine i
 ![Wiring](PHOTOS/P2.png)
 
 ## CAD
-
+![Robotic Hand](PHOTOS/R1.png)
 ## Bill of Materials (BOM)
 
 | Name                                           | Purpose         | Quantity | Total Cost (USD) | Link | Distributor |
